@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yoshi1125hisa/express-sequelize/issues"
   },
-  "homepage": "https://github.com/yoshi1125hisa/express-sequelize#readme"
+  "homepage": "https://github.com/yoshi1125hisa/express-sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
