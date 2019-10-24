@@ -1,0 +1,22 @@
+{
+  "name": "express-sequelize",
+  "version": "1.0.0",
+  "description": "express-sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yoshi1125hisa/express-sequelize.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "yoshi1125hisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshi1125hisa/express-sequelize/issues"
+  },
+  "homepage": "https://github.com/yoshi1125hisa/express-sequelize#readme"
+}
