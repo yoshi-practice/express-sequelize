@@ -4,7 +4,7 @@
   "description": "express-sequelize",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node src/app.js",
+    "start": "mysql.server start;nodemon --exec babel-node src/app.js",
     "build": "babel src --out-dir dest",
     "boot": "node dest/app.js",
     "mysql:start": "mysql.server start",
